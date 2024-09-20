@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 You can modify the setup instructions based on the actual framework, languages, and databases you're using. Thi# news-aggregator
 
-#Thank you 
+# Thank you 
