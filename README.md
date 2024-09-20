@@ -11,7 +11,8 @@ This project is a **web-based news aggregator** that fetches news from various s
 - Backend built using **Go**, **Dart**, **Java**, and the **MARN stack** (MongoDB, Angular, React, Node.js).
 - Styled with **Tailwind CSS** for a responsive, modern user interface.
 
-![Uploading Screenshot 2024-09-20 124800.png…]()
+![Screenshot 2024-09-20 124736](https://github.com/user-attachments/assets/85db55c6-7b55-4f11-9127-e5fbeb8551fe)
+![Screenshot 2024-09-20 124749](https://github.com/user-attachments/assets/0ebb7a93-8161-418f-a7e2-913bb72a2c72)
 ![Screenshot 2024-09-20 124736](https://github.com/user-attachments/assets/c1c46cb4-0d51-44ec-8798-ff614c5a098f)
 
 
